@@ -1,0 +1,39 @@
+.card1{
+    width:300px;
+    margin:30px 0px 0px 30px;
+}
+.text1{
+    font-weight: bold;
+}
+.container{
+    display:flex;
+}
+.forminput{
+    width:300px;
+    margin-left:550px;
+    margin-top: 20px;
+    text-align: left;
+}
+
+.loginform{
+    text-align: center;
+}
+.registerform{
+    text-align: center;
+}
+.signup{
+    margin-right: 40px;
+    color:red
+}
+.foodcart{
+    margin:10px 0px 0px 20px;
+    width:500px;
+}
+.fooddetails{
+    width:300px;
+    margin:30px 0px 0px 30px;
+}
+.cart{
+    margin-left:450px;
+    margin-top:30px
+}
